@@ -8,7 +8,7 @@ Projeto open source para fazer vídeos automatizados
 - Git (https://git-scm.com/)
 - Node (https://nodejs.org)
 
-# Instalação
+# Instalação 
 
 Por [Hebert Lima](https://github.com/hebertlima)
 
